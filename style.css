@@ -730,7 +730,7 @@ body {
 
 @media screen and (max-width:656px){
     .rules>i{
-        top: 160px !important;
+        top: 75px !important;
     }
     .mainRules{
         font-size: 18px;
