@@ -660,6 +660,12 @@ body {
     .rules span{
         font-size:40px !important;
     }
+    .rules{
+        padding-top: 60px !important;
+    }
+    .rules i{
+        top:65px !important;
+    }
 }
 
 @media screen and (max-width:400px){
@@ -727,7 +733,7 @@ body {
 
 @media screen and (max-width:656px){
     .rules>i{
-        top: 40px !important;
+        top: 80px !important;
     }
     .mainRules{
         font-size: 18px;
